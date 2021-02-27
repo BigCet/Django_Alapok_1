@@ -1,2 +1,3 @@
 Helló
 haver
+Én atnulom a python -t.
